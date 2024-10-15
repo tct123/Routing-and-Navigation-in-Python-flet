@@ -1,7 +1,7 @@
 from flet import *
 
 
-class ForgotPassword(UserControl):
+class ForgotPassword(Control):
     def __init__(self):
         super().__init__()
 

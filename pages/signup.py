@@ -1,7 +1,7 @@
 from flet import *
 
 
-class Signup(UserControl):
+class Signup(Control):
     def __init__(self):
         super().__init__()
 
